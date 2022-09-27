@@ -1,16 +1,16 @@
 # Testing Will Begin Shortly
 
 Please wait.  
-We will be taking the SAT questions first.
+We will be taking the TEST questions first.
 
-## SAT
+## TEST
 
 Once the test is ready, there will be a button that appears here.
 
 <dl>
   <body>
     <button onclick="">
-      SAT ->
+      CAT ->
     </button>
   </body>
 </dl>
