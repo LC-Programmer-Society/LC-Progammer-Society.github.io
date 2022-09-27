@@ -9,7 +9,7 @@ Once the test is ready, there will be a button that appears here.
 
 <dl>
   <body>
-    <button onclick="">
+    <button onclick="/satwait">
       CAT ->
     </button>
   </body>
